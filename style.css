@@ -7,16 +7,7 @@
 }
 
 table {
-  border-collapse: collapse;
-}
-
-th,
-td {
   border: 1px solid black;
   padding: 5px;
-}
-
-th,
-td {
   background-color: gold;
 }
